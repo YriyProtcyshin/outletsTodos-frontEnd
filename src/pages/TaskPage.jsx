@@ -6,6 +6,11 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Divider } from '@mui/material';
 
+const { REACT_APP_API_URL } = process.env;
+const instance = axios.create({
+  baseURL: REACT_APP_API_URL,
+});
+
 export const TaskPage = ({ id }) => {
   const { taskId } = useParams();
   const [task, setTask] = useState(null);
@@ -15,22 +20,20 @@ export const TaskPage = ({ id }) => {
   // 1. Получить из базы записть о задание
   useEffect(() => {
     const fetchData = async () => {
-      await axios(`http://localhost:5000/tasks/${taskId}`).then(result =>
+      await instance(`tasks/${taskId}`).then(result =>
         setTask(result.data.result)
       );
     };
     fetchData();
-    console.log('get task');
   }, [taskId]);
 
   // Запрос на сервер на изменения статуса выполнения задания
   useEffect(() => {
     if (rowSelectionModel.length === 0) return;
 
-    axios.patch(`http://localhost:5000/tasks/${taskId}`, {
+    instance.patch(`tasks/${taskId}`, {
       complitedOutlets: rowSelectionModel.join(','),
     });
-    console.log('patch');
   }, [rowSelectionModel, taskId]);
 
   useEffect(() => {
@@ -49,8 +52,8 @@ export const TaskPage = ({ id }) => {
     setRowSelectionModel(complitedTask);
 
     // запрос на получение Outlet данных по перечню кодов
-    axios
-      .post('http://localhost:5000/outlets/many', {
+    instance
+      .post('outlets/many', {
         outlets: petraIds.join(','),
       })
       .then(res => setOutletsList(res.data.result));

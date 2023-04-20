@@ -22,6 +22,11 @@ export const OutletPage = () => {
 
   const [open, setOpen] = useState(false);
 
+  const { REACT_APP_API_URL } = process.env;
+  const instance = axios.create({
+    baseURL: REACT_APP_API_URL,
+  });
+
   // закрытие модалки
   const handleClose = () => {
     setOpen(false);
@@ -33,10 +38,8 @@ export const OutletPage = () => {
   };
 
   useEffect(() => {
-    axios('http://localhost:5000/outlets/').then(result =>
-      setOutlet(result.data.result)
-    );
-  }, []);
+    instance('outlets/').then(result => setOutlet(result.data.result));
+  }, [instance]);
 
   return (
     <div>

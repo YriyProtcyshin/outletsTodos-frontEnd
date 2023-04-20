@@ -5,13 +5,16 @@ import { Stack } from '@mui/material';
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 
+const { REACT_APP_API_URL } = process.env;
+const instance = axios.create({
+  baseURL: REACT_APP_API_URL,
+});
+
 export const MyTasks = () => {
   const [tasks, setTasks] = useState([]);
 
   useEffect(() => {
-    axios('http://localhost:5000/tasks/').then(result =>
-      setTasks(result.data.result)
-    );
+    instance.get('tasks/').then(result => setTasks(result.data.result));
   }, []);
   return (
     <Container>

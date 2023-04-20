@@ -12,6 +12,11 @@ import AlertDialog from '../components/ModalDialog/Modal';
 import { Typography } from '@mui/material';
 import axios from 'axios';
 
+const { REACT_APP_API_URL } = process.env;
+const instance = axios.create({
+  baseURL: REACT_APP_API_URL,
+});
+
 export const AddTask = () => {
   const [title, setTitle] = useState(null);
   const [startDate, setStartDate] = useState(dayjs().format('DD/MM/YYYY'));
@@ -43,15 +48,15 @@ export const AddTask = () => {
       Outlets,
     };
 
-    axios.post('http://localhost:5000/tasks/new-task/add', body);
+    instance.post('tasks/new-task/add', body);
   };
 
   // Поиск точек
 
   const searchOutlets = () => {
     const arrOutlets = outletList.split('\n');
-    axios
-      .post('http://localhost:5000/outlets/many', {
+    instance
+      .post('outlets/many', {
         outlets: arrOutlets.join(','),
       })
       .then(res => setFilteredData(res.data.result));
