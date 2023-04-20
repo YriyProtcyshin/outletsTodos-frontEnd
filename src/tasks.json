@@ -1,0 +1,60 @@
+[
+  {
+    "id": "123",
+    "Task name": "Проверить дистрибюцию в горпрессе",
+    "Description": "Проверить дистрибюцию в горпрессе",
+    "Start": "12/04/2023",
+    "End": "31/04/2023",
+    "Outlets": [
+      {
+        "petraId": "40804",
+        "complited": false
+      },
+      {
+        "petraId": "50269",
+        "complited": false
+      },
+      {
+        "petraId": "569",
+        "complited": false
+      },
+      {
+        "petraId": "623",
+        "complited": true
+      },
+      {
+        "petraId": "66812",
+        "complited": true
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "Task name": "Точки без оченки",
+    "Description": "Точки без оценки",
+    "Start": "12/04/2023",
+    "End": "31/04/2023",
+    "Outlets": [
+      {
+        "petraId": "67406",
+        "complited": false
+      },
+      {
+        "petraId": "71649",
+        "complited": true
+      },
+      {
+        "petraId": "762",
+        "complited": true
+      },
+      {
+        "petraId": "78121",
+        "complited": true
+      },
+      {
+        "petraId": "387585",
+        "complited": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,877 @@
+[
+ {
+  "Customer Code": "10085",
+  "Account Name": "СЮРПРИЗ",
+  "Commercial (Legal) Name": "МОДУЛЬ",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "МОДУЛЬ",
+  "Key Account Type": "Local",
+  "Address Line 1": "АДМІРАЛЬСЬКИЙ ПРОСП. 20"
+ },
+ {
+  "Customer Code": "103380",
+  "Account Name": "БЛЕСК И ВЕДРО",
+  "Commercial (Legal) Name": "ТАВРIЯ ПЛЮС",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "БЛЕСК И ВЕДРО",
+  "Key Account Type": "National",
+  "Address Line 1": "ГОВОРОВА МАРШАЛА ВУЛ. 10\/6"
+ },
+ {
+  "Customer Code": "103387",
+  "Account Name": "БЛЕСК И ВЕДРО",
+  "Commercial (Legal) Name": "ТАВРIЯ ПЛЮС",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "БЛЕСК И ВЕДРО",
+  "Key Account Type": "National",
+  "Address Line 1": "ГРУШЕВСЬКОГО  МИХАЙЛА ВУЛ. 39\/4"
+ },
+ {
+  "Customer Code": "103389",
+  "Account Name": "БРСМ НАФТА",
+  "Commercial (Legal) Name": "ЄВРО СМАРТ ПАУЕР",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "БРСМ",
+  "Key Account Type": "National",
+  "Address Line 1": "КИЇВСЬКЕ ШОСЕ 1"
+ },
+ {
+  "Customer Code": "103485",
+  "Account Name": "ГОРПРЕСА 733",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ГРУШЕВСЬКОГО МИХАЙЛА ВУЛ.5"
+ },
+ {
+  "Customer Code": "103836",
+  "Account Name": "КОПІЙКА",
+  "Commercial (Legal) Name": "МОДЕРН-ТРЕЙД",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "КОПІЙКА",
+  "Key Account Type": "Regional",
+  "Address Line 1": "САХАРОВА ВУЛ.,1"
+ },
+ {
+  "Customer Code": "104133365600",
+  "Account Name": "ТОЧКА",
+  "Commercial (Legal) Name": "РС ТОЧКА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ТОЧКА",
+  "Key Account Type": "Regional",
+  "Address Line 1": "АКАДЕМІКА ФІЛАТОВА ВУЛ. 15"
+ },
+ {
+  "Customer Code": "10553",
+  "Account Name": "АДМІРАЛ",
+  "Commercial (Legal) Name": "МОДУЛЬ",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "МОДУЛЬ",
+  "Key Account Type": "Local",
+  "Address Line 1": "АДМІРАЛЬСЬКИЙ ПРОСП. 3"
+ },
+ {
+  "Customer Code": "105597007358",
+  "Account Name": "БОНЬ КОШЕЛЕВА",
+  "Commercial (Legal) Name": "КОШЕЛЕВА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "БОНЬ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "БОЧАРОВА ГЕНЕРАЛА ВУЛ., 71"
+ },
+ {
+  "Customer Code": "105614011707",
+  "Account Name": "АТБ",
+  "Commercial (Legal) Name": "АТБ-МАРКЕТ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "АТБ",
+  "Key Account Type": "National",
+  "Address Line 1": "СЕРЕДНЬОФОНТАНСЬКА  ВУЛ.12 А"
+ },
+ {
+  "Customer Code": "1059",
+  "Account Name": "ГОРПРЕСА 225",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ПАСТЕРА ЛУІ ВУЛ. 34"
+ },
+ {
+  "Customer Code": "1066",
+  "Account Name": "ГОРПРЕСА 706",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ПРЕОБРАЖЕНСЬКА ВУЛ. 22"
+ },
+ {
+  "Customer Code": "10721",
+  "Account Name": "ТАВРІЯ В",
+  "Commercial (Legal) Name": "ТАВРIЯ ПЛЮС",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "ТАВРІЯ В",
+  "Key Account Type": "National",
+  "Address Line 1": "АРМІЙСЬКА ВУЛ. 10"
+ },
+ {
+  "Customer Code": "11",
+  "Account Name": "ГОРПРЕСА 739",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "КАТЕРИНИНСЬКА ВУЛ. 17"
+ },
+ {
+  "Customer Code": "11187",
+  "Account Name": "ТАБАКЕРОЧКА",
+  "Commercial (Legal) Name": "СИНЯВСЬКА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "АТАНАСОВ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "ВИСОЦЬКОГО ВОЛОДИМИРА ВУЛ. 12"
+ },
+ {
+  "Customer Code": "11242",
+  "Account Name": "ГОРПРЕСА 780",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ДВОРЯНСЬКА ВУЛ. 5"
+ },
+ {
+  "Customer Code": "11425",
+  "Account Name": "ГОРПРЕСА 781",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "БОЧАРОВА ГЕНЕРАЛА ВУЛ. 47"
+ },
+ {
+  "Customer Code": "1159",
+  "Account Name": "ГОРПРЕСА 711",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ПАСТЕРА ЛУІ ВУЛ. 20"
+ },
+ {
+  "Customer Code": "11743",
+  "Account Name": "ГОРПРЕСА 626",
+  "Commercial (Legal) Name": "ВЕРЕС-ПРЕС",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ДОБРОВОЛЬСЬКОГО ПРОСП. 114\/2"
+ },
+ {
+  "Customer Code": "122",
+  "Account Name": "ГОРПРЕСА 713",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ВЕЛИКА АРНАУТСЬКА ВУЛ. 17"
+ },
+ {
+  "Customer Code": "137616",
+  "Account Name": "ТАБАКЕРОЧКА",
+  "Commercial (Legal) Name": "ГОМАН",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "АТАНАСОВ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "БОЧАРОВА ГЕНЕРАЛА ВУЛ., 43"
+ },
+ {
+  "Customer Code": "138077",
+  "Account Name": "БРСМ НАФТА",
+  "Commercial (Legal) Name": "ЄВРО СМАРТ ПАУЕР",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "БРСМ",
+  "Key Account Type": "National",
+  "Address Line 1": "ХІМІЧНА ВУЛ. 1"
+ },
+ {
+  "Customer Code": "14787",
+  "Account Name": "МОСПАН",
+  "Commercial (Legal) Name": "МОСПАН",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "БОНЬ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "ДІДРИХСОНА ВУЛ. 2\/1"
+ },
+ {
+  "Customer Code": "149357084775",
+  "Account Name": "AMIC",
+  "Commercial (Legal) Name": "АМІК УКРАЇНА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "AMIC",
+  "Key Account Type": "National",
+  "Address Line 1": "КРАСНОВА МИКОЛИ ВУЛ. 2\/А"
+ },
+ {
+  "Customer Code": "17074",
+  "Account Name": "ГОРПРЕСА 761",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ПІОНЕРСЬКА ВУЛ. 11"
+ },
+ {
+  "Customer Code": "17234",
+  "Account Name": "ШЕВЧЕНКО",
+  "Commercial (Legal) Name": "ШЕВЧЕНКО",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ШЕВЧЕНКО",
+  "Key Account Type": "Local",
+  "Address Line 1": "ХУТОРСКАЯ УЛ. 1-Б"
+ },
+ {
+  "Customer Code": "1785",
+  "Account Name": "СІЛЬПО",
+  "Commercial (Legal) Name": "СІЛЬПО ФУД",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "СІЛЬПО",
+  "Key Account Type": "National",
+  "Address Line 1": "БОЧАРОВА ГЕНЕРАЛА ВУЛ. 44"
+ },
+ {
+  "Customer Code": "180478817900",
+  "Account Name": "ТАБАКЕРОЧКА",
+  "Commercial (Legal) Name": "ГОМАН",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "АТАНАСОВ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "ХІМІЧНА ВУЛ. 1\/7"
+ },
+ {
+  "Customer Code": "180506455643",
+  "Account Name": "ТАБАКЕРОЧКА",
+  "Commercial (Legal) Name": "ГОМАН",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "АТАНАСОВ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "САХАРОВА ВУЛ., 1В"
+ },
+ {
+  "Customer Code": "1900",
+  "Account Name": "ТЕМБ",
+  "Commercial (Legal) Name": "ТЕМБ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ТЕМБ",
+  "Key Account Type": "Local",
+  "Address Line 1": "ПАСТЕРА ЛУІ ВУЛ. 50"
+ },
+ {
+  "Customer Code": "19304",
+  "Account Name": "ГОРПРЕСА 782",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "БУГАЇВСЬКА ВУЛ. 46"
+ },
+ {
+  "Customer Code": "19635",
+  "Account Name": "ГОРОДОК",
+  "Commercial (Legal) Name": "ГОРОДОК",
+  "Ownership Type": "Independent",
+  "Address Line 1": "ПРОМИСЛОВА ВУЛ. 40"
+ },
+ {
+  "Customer Code": "205000048725",
+  "Account Name": "МИНИ-МАРКЕТ МОНЕТКА",
+  "Commercial (Legal) Name": "КІРІЯНОВ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "МОНЕТКА",
+  "Key Account Type": "Local",
+  "Address Line 1": "ШЕВЧЕНКА ПРОСП. 6\/2"
+ },
+ {
+  "Customer Code": "205283805287",
+  "Account Name": "TABACO MARKET",
+  "Commercial (Legal) Name": "ЄЛІЗТАН АЛЬЯНС КОМПАНІ",
+  "Ownership Type": "Independent",
+  "Address Line 1": "БОЧАРОВА ВУЛ., 62"
+ },
+ {
+  "Customer Code": "2288",
+  "Account Name": "ГОРПРЕСА 213",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "СОФІЇВСЬКА ВУЛ. 15"
+ },
+ {
+  "Customer Code": "233639782728",
+  "Account Name": "ГОРПРЕСА 304",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ПУШКІНСЬКА ВУЛ. 37"
+ },
+ {
+  "Customer Code": "23397",
+  "Account Name": "БОНЬ",
+  "Commercial (Legal) Name": "АРКАБАЛЕН",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "БОНЬ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "ФОНТАНСЬКА ДОРОГА 12"
+ },
+ {
+  "Customer Code": "239000040897",
+  "Account Name": "ТАБАКЕРОЧКА АТАНАСОВ",
+  "Commercial (Legal) Name": "АТАНАСОВ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "АТАНАСОВ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "АРМІЙСЬКА ВУЛ. 15\/3"
+ },
+ {
+  "Customer Code": "239141102307",
+  "Account Name": "ТАВРІЯ В",
+  "Commercial (Legal) Name": "ТАВРІЯ ПЛЮС",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "ТАВРІЯ В",
+  "Key Account Type": "National",
+  "Address Line 1": "ФОНТАНСЬКА ДОРОГА ВУЛ. 118а"
+ },
+ {
+  "Customer Code": "24250",
+  "Account Name": "ТАВРІЯ В",
+  "Commercial (Legal) Name": "ТАВРIЯ ПЛЮС",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "ТАВРІЯ В",
+  "Key Account Type": "National",
+  "Address Line 1": "ГОВОРОВА МАРШАЛА ВУЛ. 10\/5"
+ },
+ {
+  "Customer Code": "243681927452",
+  "Account Name": "ПОРТСИГАР",
+  "Commercial (Legal) Name": "РИБАЧУК",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "ОДІН",
+  "Key Account Type": "Regional",
+  "Address Line 1": "ГЕНЕРАЛА ПЕТРОВА ВУЛ. 18"
+ },
+ {
+  "Customer Code": "24410",
+  "Account Name": "КРАМЧАНІНОВ",
+  "Commercial (Legal) Name": "КРАМЧАНІНОВ",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "КРАМЧАНІНОВ",
+  "Key Account Type": "Local",
+  "Address Line 1": "МЕЛЬНИЧНА ВУЛ. 26\/2"
+ },
+ {
+  "Customer Code": "257668309412",
+  "Account Name": "АТБ",
+  "Commercial (Legal) Name": "АТБ",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "АТБ",
+  "Key Account Type": "National",
+  "Address Line 1": "БОЧАРОВА ГЕНЕРАЛА ВУЛ., 57"
+ },
+ {
+  "Customer Code": "265306224993",
+  "Account Name": "ОККО",
+  "Commercial (Legal) Name": "ОККО ДРАЙВ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ОККО",
+  "Key Account Type": "National",
+  "Address Line 1": "КОСМОНАВТА КОМАРОВА ВУЛ. 10А"
+ },
+ {
+  "Customer Code": "265306953425",
+  "Account Name": "ОККО",
+  "Commercial (Legal) Name": "ОККО ДРАЙВ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ОККО",
+  "Key Account Type": "National",
+  "Address Line 1": "БУГАЇВСЬКА ВУЛ. 41Г"
+ },
+ {
+  "Customer Code": "281029917968",
+  "Account Name": "АТБ",
+  "Commercial (Legal) Name": "АТБ-МАРКЕТ",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "АТБ",
+  "Key Account Type": "National",
+  "Address Line 1": "БУГАЇВСЬКА ВУЛ. 23"
+ },
+ {
+  "Customer Code": "28761",
+  "Account Name": "УНИВЕРСАМ АВРОРА 24",
+  "Commercial (Legal) Name": "АГЕНТ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "АГЕНТ",
+  "Key Account Type": "Local",
+  "Address Line 1": "МАЛА АРНАУТСЬКА ВУЛ. 105\/1"
+ },
+ {
+  "Customer Code": "288515450022",
+  "Account Name": "МИНИ-МАРКЕТ (СИТИ ТРЕЙДИНГ)",
+  "Commercial (Legal) Name": "ІВАНИЦЬКА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "СІТІ ТРЕЙДИНГ",
+  "Key Account Type": "Local",
+  "Address Line 1": "ЗООПАРКОВА ВУЛ. 12"
+ },
+ {
+  "Customer Code": "29129",
+  "Account Name": "ОККО",
+  "Commercial (Legal) Name": "ОККО ДРАЙВ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ОККО",
+  "Key Account Type": "National",
+  "Address Line 1": "КРАСНОВА МИКОЛИ ВУЛ. 3\/Б"
+ },
+ {
+  "Customer Code": "295063699400",
+  "Account Name": "ПРОДУКТИ ТЕМБ",
+  "Commercial (Legal) Name": "ЛАДА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ТЕМБ",
+  "Key Account Type": "Local",
+  "Address Line 1": "ЛЮСТДОРФСЬКА ДОРОГА. 55"
+ },
+ {
+  "Customer Code": "299864329728",
+  "Account Name": "ТАВРІЯ В",
+  "Commercial (Legal) Name": "ТАВРІЯ В",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ТАВРІЯ В",
+  "Key Account Type": "National",
+  "Address Line 1": "БУГАЇВСЬКА ВУЛ. 44"
+ },
+ {
+  "Customer Code": "308831586467",
+  "Account Name": "ТАБАКЕРОЧКА",
+  "Commercial (Legal) Name": "ЗАХОБА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "АТАНАСОВ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "БОЧАРОВА ГЕНЕРАЛА ВУЛ., 44Б"
+ },
+ {
+  "Customer Code": "311654730147",
+  "Account Name": "КОПІЙКА",
+  "Commercial (Legal) Name": "КОПІЙКА-ЦЕНТР",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "КОПІЙКА",
+  "Key Account Type": "Regional",
+  "Address Line 1": "МАРШАЛА ГОВОРОВА,ВУЛ.3-Б"
+ },
+ {
+  "Customer Code": "31990",
+  "Account Name": "ГОРПРЕСА 843",
+  "Commercial (Legal) Name": "МАГНОЛІЯ  21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ІТАЛІЙСЬКИЙ БУЛЬВ. 6"
+ },
+ {
+  "Customer Code": "32702",
+  "Account Name": "УКРАЇНСЬКА ГОРІЛКА",
+  "Commercial (Legal) Name": "АГЕНТ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "АГЕНТ",
+  "Key Account Type": "Local",
+  "Address Line 1": "ПАНТЕЛЕЙМОНІВСЬКА ВУЛ. 23 (1)"
+ },
+ {
+  "Customer Code": "329072",
+  "Account Name": "ВОЙЦЕХОВСКИЙ",
+  "Commercial (Legal) Name": "ВОЙЦЕХОВСКИЙ",
+  "Ownership Type": "Independent",
+  "Address Line 1": "АРМІЙСЬКА ВУЛ. 15"
+ },
+ {
+  "Customer Code": "329073",
+  "Account Name": "МИНИ-МАРКЕТ (СИТИ ТРЕЙДИНГ)",
+  "Commercial (Legal) Name": "ІВАНИЦЬКА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "СІТІ ТРЕЙДИНГ",
+  "Key Account Type": "Local",
+  "Address Line 1": "АРМІЙСЬКА ВУЛ. 11"
+ },
+ {
+  "Customer Code": "329894",
+  "Account Name": "УНИВЕРСАМ ЧЕСТОР",
+  "Commercial (Legal) Name": "ЛУТОЦ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ЛУТОЦ",
+  "Key Account Type": "Local",
+  "Address Line 1": "РОЖДЕСТВЕНСКАЯ УЛ. 15-А"
+ },
+ {
+  "Customer Code": "331310",
+  "Account Name": "AMIC",
+  "Commercial (Legal) Name": "АМІК УКРАЇНА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "AMIC",
+  "Key Account Type": "National",
+  "Address Line 1": "БУГАЇВСЬКА ВУЛ. 6А"
+ },
+ {
+  "Customer Code": "332338",
+  "Account Name": "ГОРПРЕСА 695",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "DODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ГОВОРОВА МАРШАЛА ВУЛ. 11A"
+ },
+ {
+  "Customer Code": "337825",
+  "Account Name": "ТАБАКЕРКА",
+  "Commercial (Legal) Name": "КОМЕРС СТАР",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "ФОРТУНА",
+  "Key Account Type": "National",
+  "Address Line 1": "БУГАЇВСЬКА ВУЛ. 21В"
+ },
+ {
+  "Customer Code": "343906149737",
+  "Account Name": "ЄРМОШКІНА",
+  "Commercial (Legal) Name": "ЄРМОШКІНА",
+  "Ownership Type": "Independent",
+  "Address Line 1": "ПЛАТАНОВА ВУЛ. 82"
+ },
+ {
+  "Customer Code": "35893",
+  "Account Name": "КОЛО",
+  "Commercial (Legal) Name": "АРІТЕЙЛ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "КОЛО МАРКЕТ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "СЕРЕДНЬОФОНТАНСЬКА ВУЛ. 19  Б"
+ },
+ {
+  "Customer Code": "36653",
+  "Account Name": "ПРОДУКТИ ШЕВЧЕНКО",
+  "Commercial (Legal) Name": "ГУДМІЛ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ШЕВЧЕНКО",
+  "Key Account Type": "Local",
+  "Address Line 1": "ПЛОЩАДЬ МОЛОДЕЖИ УЛ. 19к1"
+ },
+ {
+  "Customer Code": "37941",
+  "Account Name": "БЕРЕЗКА ШЕВЧЕНКО",
+  "Commercial (Legal) Name": "СІМАНЬКОВА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ШЕВЧЕНКО",
+  "Key Account Type": "Local",
+  "Address Line 1": "АГРОНОМІЧНА ВУЛ. 201"
+ },
+ {
+  "Customer Code": "387585",
+  "Account Name": "ТАБАКЕРОЧКА",
+  "Commercial (Legal) Name": "АРНАУТ",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "АТАНАСОВ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "БОЧАРОВА ГЕНЕРАЛА ВУЛ., 37"
+ },
+ {
+  "Customer Code": "388533",
+  "Account Name": "ТАБАКЕРОЧКА АТАНАСОВ",
+  "Commercial (Legal) Name": "АТАНАСОВ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "АТАНАСОВ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "ГОВОРОВА МАРШАЛА ВУЛ. 11Г"
+ },
+ {
+  "Customer Code": "391705",
+  "Account Name": "ГОРПРЕСА 655",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ДЕРИБАСІВСЬКА ВУЛ. 9"
+ },
+ {
+  "Customer Code": "39342",
+  "Account Name": "СУСІДИ",
+  "Commercial (Legal) Name": "ТОДОРОВ",
+  "Ownership Type": "Independent",
+  "Address Line 1": "СИБІРСЬКА ВУЛ. 1"
+ },
+ {
+  "Customer Code": "40804",
+  "Account Name": "КОПІЙКА",
+  "Commercial (Legal) Name": "МОДЕРН-ТРЕЙД",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "КОПІЙКА",
+  "Key Account Type": "Regional",
+  "Address Line 1": "БОЧАРОВА ГЕНЕРАЛА ВУЛ. 50"
+ },
+ {
+  "Customer Code": "46239",
+  "Account Name": "КОШИК БОНЬ",
+  "Commercial (Legal) Name": "ВІКТАН-ЛП",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "БОНЬ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "ГЕНЕРАЛА ПЕТРОВА ВУЛ. 16\/18"
+ },
+ {
+  "Customer Code": "46850",
+  "Account Name": "ПРОДУКТИ ШЕВЧЕНКО",
+  "Commercial (Legal) Name": "ЧЕРКАСЬКИЙ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ШЕВЧЕНКО",
+  "Key Account Type": "Local",
+  "Address Line 1": "АГРОНОМІЧНА ВУЛ. 159"
+ },
+ {
+  "Customer Code": "50269",
+  "Account Name": "МІНІМАРКЕТ",
+  "Commercial (Legal) Name": "СТОЯНОВА",
+  "Ownership Type": "Independent",
+  "Address Line 1": "КУЙБИШЕВА ВУЛ. 28"
+ },
+ {
+  "Customer Code": "52401",
+  "Account Name": "ШЕВЧЕНКО",
+  "Commercial (Legal) Name": "ШЕВЧЕНКО",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ШЕВЧЕНКО",
+  "Key Account Type": "Local",
+  "Address Line 1": "ХУТОРСКАЯ ВУЛ. 68-К1"
+ },
+ {
+  "Customer Code": "54715",
+  "Account Name": "ГОРПРЕСА 618",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "БОЧАРОВА ГЕНЕРАЛА ВУЛ. 42"
+ },
+ {
+  "Customer Code": "54836",
+  "Account Name": "МИНИ-МАРКЕТ (СИТИ ТРЕЙДИНГ)",
+  "Commercial (Legal) Name": "ІВАНИЦЬКА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "СІТІ ТРЕЙДИНГ",
+  "Key Account Type": "Local",
+  "Address Line 1": "ЗООПАРКОВА ВУЛ. 2"
+ },
+ {
+  "Customer Code": "569",
+  "Account Name": "ГОРПРЕСА 731",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ГРЕЦЬКА ВУЛ. 26"
+ },
+ {
+  "Customer Code": "57950",
+  "Account Name": "КАПРИЗ ШЕВЧЕНКО",
+  "Commercial (Legal) Name": "ШЕВЧЕНКО",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "НАДЕЖДА-П",
+  "Key Account Type": "Local",
+  "Address Line 1": "ХУТОРСКАЯ УЛ. 45"
+ },
+ {
+  "Customer Code": "59343",
+  "Account Name": "ТАБАКО-ВОДОЧНЫЙ",
+  "Commercial (Legal) Name": "ВОВЖИНСЬКИЙ",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "ОДІН",
+  "Key Account Type": "Regional",
+  "Address Line 1": "БОЧАРОВА ГЕНЕРАЛА ВУЛ. 47"
+ },
+ {
+  "Customer Code": "59382",
+  "Account Name": "ТОЧКА",
+  "Commercial (Legal) Name": "РС ТОЧКА",
+  "Ownership Type": "DODO",
+  "Parent Account Name": "ТОЧКА",
+  "Key Account Type": "Regional",
+  "Address Line 1": "АДМІРАЛЬСЬКИЙ ПРОСП. 3"
+ },
+ {
+  "Customer Code": "61577",
+  "Account Name": "ГУРМАНЪ",
+  "Commercial (Legal) Name": "ГУРМАН-К",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГУРМАН-К",
+  "Key Account Type": "Regional",
+  "Address Line 1": "ПАСТЕРА ЛУІ ВУЛ. 34"
+ },
+ {
+  "Customer Code": "623",
+  "Account Name": "ГОРПРЕСА 305",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ГОГОЛЯ ВУЛ. 12"
+ },
+ {
+  "Customer Code": "63840",
+  "Account Name": "ТОЧКА",
+  "Commercial (Legal) Name": "РС ТОЧКА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ТОЧКА",
+  "Key Account Type": "Regional",
+  "Address Line 1": "СОФІЇВСЬКА ВУЛ. 32"
+ },
+ {
+  "Customer Code": "65776",
+  "Account Name": "VAPE2GO",
+  "Commercial (Legal) Name": "КОМЕРС СТАР",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "ФОРТУНА",
+  "Key Account Type": "National",
+  "Address Line 1": "ГРУШЕВСЬКОГО МИХАЙЛА ВУЛ. 39\/4"
+ },
+ {
+  "Customer Code": "66812",
+  "Account Name": "КОПІЙКА",
+  "Commercial (Legal) Name": "КОПІЙКА-ЦЕНТР",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "КОПІЙКА",
+  "Key Account Type": "Regional",
+  "Address Line 1": "МАЯКОВСЬКОГО ПРОВ. 10"
+ },
+ {
+  "Customer Code": "67320",
+  "Account Name": "АТБ",
+  "Commercial (Legal) Name": "АТБ-МАРКЕТ",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "АТБ",
+  "Key Account Type": "National",
+  "Address Line 1": "СЕРЕДНЬОФОНТАНСЬКА ВУЛ. 19 А"
+ },
+ {
+  "Customer Code": "67406",
+  "Account Name": "КОПІЙКА",
+  "Commercial (Legal) Name": "МОДЕРН-ТРЕЙД",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "КОПІЙКА",
+  "Key Account Type": "Regional",
+  "Address Line 1": "ГРУШЕВСЬКОГО МИХАЙЛА ВУЛ. 39\/4"
+ },
+ {
+  "Customer Code": "67724",
+  "Account Name": "ГОРПРЕСА 428",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ГЕНЕРАЛА ПЕТРОВА ВУЛ. 25"
+ },
+ {
+  "Customer Code": "69903",
+  "Account Name": "ТАБАКЕРОЧКА&SMS",
+  "Commercial (Legal) Name": "АТАНАСОВ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "АТАНАСОВ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "БОЧАРОВА ГЕНЕРАЛА ВУЛ. 71\/2"
+ },
+ {
+  "Customer Code": "71649",
+  "Account Name": "ГУРМАНЪ",
+  "Commercial (Legal) Name": "ГУРМАН-К",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГУРМАН-К",
+  "Key Account Type": "Regional",
+  "Address Line 1": "ДЕРИБАСІВСЬКА ВУЛ. 9"
+ },
+ {
+  "Customer Code": "73197",
+  "Account Name": "ХОРЖЕВСЬКИЙ",
+  "Commercial (Legal) Name": "ХОРЖЕВСЬКИЙ",
+  "Ownership Type": "Independent",
+  "Address Line 1": "3-Й ТРАВНЕВИЙ ПРОВ. 35\/2"
+ },
+ {
+  "Customer Code": "73654",
+  "Account Name": "ТАВРИЯ В",
+  "Commercial (Legal) Name": "ТАВРIЯ ПЛЮС",
+  "Ownership Type": "COCO",
+  "Parent Account Name": "ТАВРІЯ В",
+  "Key Account Type": "National",
+  "Address Line 1": "РІШЕЛЬЄВСЬКА ВУЛ. 64"
+ },
+ {
+  "Customer Code": "74557",
+  "Account Name": "МАРКЕТ 24_7 ЧЕБАН",
+  "Commercial (Legal) Name": "ЧЕБАН",
+  "Ownership Type": "Independent",
+  "Address Line 1": "БОЧАРОВА ГЕНЕРАЛА ВУЛ. 70"
+ },
+ {
+  "Customer Code": "75700",
+  "Account Name": "КОПІЙКА",
+  "Commercial (Legal) Name": "КОПІЙКА-ЦЕНТР",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "КОПІЙКА",
+  "Key Account Type": "Regional",
+  "Address Line 1": "ВИСОЦЬКОГО ВОЛОДИМИРА ВУЛ. 9А"
+ },
+ {
+  "Customer Code": "76080",
+  "Account Name": "ПРОДУКТИ ЗОРЯ",
+  "Commercial (Legal) Name": "ЗОРЯ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "АЛНЕС ОЛ",
+  "Key Account Type": "Local",
+  "Address Line 1": "ПАРКОВАЯ ул. 43"
+ },
+ {
+  "Customer Code": "762",
+  "Account Name": "ГІПЕРМАРКЕТ ІДЕАЛ",
+  "Commercial (Legal) Name": "ІДЕАЛ",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ІДЕАЛ",
+  "Key Account Type": "Regional",
+  "Address Line 1": "БУГАЇВСЬКА ВУЛ. 21\/В"
+ },
+ {
+  "Customer Code": "78121",
+  "Account Name": "МАКСІМОВ",
+  "Commercial (Legal) Name": "МАКСИМОВА-КОЛЬЦА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "МАКСІМОВА",
+  "Key Account Type": "Local",
+  "Address Line 1": "ДОБРОВОЛЬСЬКОГО ПРОСП. 114\/2"
+ },
+ {
+  "Customer Code": "81",
+  "Account Name": "AMIC",
+  "Commercial (Legal) Name": "АМІК УКРАЇНА",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "AMIC",
+  "Key Account Type": "National",
+  "Address Line 1": "СЕРЕДНЬОФОНТАНСЬКА ВУЛ. 26 А"
+ },
+ {
+  "Customer Code": "8239",
+  "Account Name": "ГОРПРЕСА 777",
+  "Commercial (Legal) Name": "МАГНОЛІЯ 21",
+  "Ownership Type": "CODO",
+  "Parent Account Name": "ГОРПРЕСА",
+  "Key Account Type": "National",
+  "Address Line 1": "ФОНТАНСЬКА ДОРОГА 12"
+ }
+]
