@@ -22,14 +22,6 @@ export const AddTask = () => {
   const [filteredData, setFilteredData] = useState(null);
   const [open, setOpen] = useState(false);
 
-  // const [outlet, setOutlet] = useState([]);
-
-  // useEffect(() => {
-  //   axios('http://localhost:5000/outlets/').then(result =>
-  //     setOutlet(result.data.result)
-  //   );
-  // }, []);
-
   // закрытие модалки
   const handleClose = () => {
     setOpen(false);
