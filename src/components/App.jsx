@@ -15,6 +15,7 @@ import { Navigate } from 'react-router-dom';
 
 export const App = () => {
   const dispatch = useDispatch();
+
   useEffect(() => {
     dispatch(refreshUser());
   }, [dispatch]);
@@ -46,9 +47,6 @@ export const App = () => {
           path="/add-task"
           element={<PrivateRoute redirectTo="/login" component={<AddTask />} />}
         />
-
-        <Route path="/outlets" element={<OutletPage />} />
-        <Route path="/add-task" element={<AddTask />} />
         <Route
           path="/my-tasks"
           element={<PrivateRoute redirectTo="/login" component={<MyTasks />} />}
@@ -68,4 +66,5 @@ export const App = () => {
 /* <Route path="/outlets" element={<OutletPage />} />
         <Route path="/add-task" element={<AddTask />} />  
   <Route path="/task/:taskId" element={<TaskPage />} />;
+   
   */
