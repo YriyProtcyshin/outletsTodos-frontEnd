@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/outletsTodos-frontEnd/static/css/main.7acaea2f.css",
-    "main.js": "/outletsTodos-frontEnd/static/js/main.c60e24ea.js",
+    "main.js": "/outletsTodos-frontEnd/static/js/main.b74b6462.js",
     "index.html": "/outletsTodos-frontEnd/index.html",
     "main.7acaea2f.css.map": "/outletsTodos-frontEnd/static/css/main.7acaea2f.css.map",
-    "main.c60e24ea.js.map": "/outletsTodos-frontEnd/static/js/main.c60e24ea.js.map"
+    "main.b74b6462.js.map": "/outletsTodos-frontEnd/static/js/main.b74b6462.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.c60e24ea.js"
+    "static/js/main.b74b6462.js"
   ]
 }
